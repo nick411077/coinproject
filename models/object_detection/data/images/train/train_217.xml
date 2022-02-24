@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_217.jpg</filename>
+	<path>/Volumes/192.168.1.120/nick/Documents/Citrus Leafminer/train/train_217.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4912</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2192</xmin>
+			<ymin>886</ymin>
+			<xmax>2868</xmax>
+			<ymax>2374</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_198.jpg</filename>
+	<path>/Volumes/192.168.1.120/nick/Documents/Citrus Leafminer/train/train_198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4912</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>curly</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1672</xmin>
+			<ymin>466</ymin>
+			<xmax>4125</xmax>
+			<ymax>3264</ymax>
+		</bndbox>
+	</object>
+</annotation>
