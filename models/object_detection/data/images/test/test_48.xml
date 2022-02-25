@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>train_132.jpg</filename>
-	<path>/Volumes/192.168.1.120/nick/Documents/Citrus Leafminer/train/train_132.jpg</path>
+	<filename>test_48.jpg</filename>
+	<path>/Volumes/192.168.1.120/nick/Documents/Citrus Leafminer/train/test_48.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4912</width>
-		<height>3264</height>
+		<width>1228</width>
+		<height>816</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2248</xmin>
-			<ymin>1138</ymin>
-			<xmax>3084</xmax>
-			<ymax>1870</ymax>
+			<xmin>562</xmin>
+			<ymin>284</ymin>
+			<xmax>771</xmax>
+			<ymax>467</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3492</xmin>
-			<ymin>2794</ymin>
-			<xmax>3828</xmax>
-			<ymax>3178</ymax>
+			<xmin>873</xmin>
+			<ymin>698</ymin>
+			<xmax>957</xmax>
+			<ymax>794</ymax>
 		</bndbox>
 	</object>
 </annotation>

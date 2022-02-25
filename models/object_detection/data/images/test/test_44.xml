@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>train_72.jpg</filename>
-	<path>/Volumes/192.168.1.120/nick/Documents/Citrus Leafminer/train/train_72.jpg</path>
+	<filename>test_44.jpg</filename>
+	<path>/Volumes/192.168.1.120/nick/Documents/Citrus Leafminer/train/test_44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4912</width>
-		<height>3264</height>
+		<width>1228</width>
+		<height>816</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2440</xmin>
-			<ymin>1066</ymin>
-			<xmax>2968</xmax>
-			<ymax>2094</ymax>
+			<xmin>610</xmin>
+			<ymin>266</ymin>
+			<xmax>742</xmax>
+			<ymax>523</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1760</xmin>
-			<ymin>990</ymin>
-			<xmax>2528</xmax>
-			<ymax>1990</ymax>
+			<xmin>440</xmin>
+			<ymin>247</ymin>
+			<xmax>632</xmax>
+			<ymax>497</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1500</xmin>
-			<ymin>1754</ymin>
-			<xmax>1932</xmax>
-			<ymax>2446</ymax>
+			<xmin>375</xmin>
+			<ymin>438</ymin>
+			<xmax>483</xmax>
+			<ymax>611</ymax>
 		</bndbox>
 	</object>
 </annotation>
